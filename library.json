@@ -1,0 +1,20 @@
+{
+    "name": "iMeter / INA226 Library",
+    "description": "Library for iMeter / INA226 BoosterPack",
+    "keywords": "INA226, Energia",
+    "authors":
+    {
+        "name":  "Rei Vilo",
+        "url":   "https://github.com/rei-vilo",
+        "maintainer": true
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/rei-vilo/INA226_Library.git"
+    },
+    "url": "https://embeddedcomputing.weebly.com/imeter-boosterpack.html",
+    "frameworks": "energia",
+    "platforms": "msp430",
+    "examples": "examples/*/*.ino"
+}
