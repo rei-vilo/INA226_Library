@@ -5,11 +5,11 @@ Library for iMeter / INA226 BoosterPack
 
 The iMeter / INA226 Library provides a high-level access to the iMeter / INA226 BoosterPack.
 
-The provided example leverages the LCD segmented display of the MSP430FR4133 LaunchPad.
+The included example leverages the LCD segmented display of the MSP430FR4133 LaunchPad.
 
 ### Content 
 
-* Souece
+* Source
 	* INA226.cpp	* INA226.h
 
 * Example
